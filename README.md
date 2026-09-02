@@ -17,6 +17,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
