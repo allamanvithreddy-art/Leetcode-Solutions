@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
@@ -46,4 +47,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0877-stone-game) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
