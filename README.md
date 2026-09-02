@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0877-stone-game](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
