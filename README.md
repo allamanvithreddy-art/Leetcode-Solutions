@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
@@ -58,6 +59,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +75,12 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
