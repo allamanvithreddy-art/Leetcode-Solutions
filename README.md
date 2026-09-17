@@ -22,6 +22,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Trie
 |  |
 | ------- |
