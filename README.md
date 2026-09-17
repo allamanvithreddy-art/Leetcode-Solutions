@@ -20,10 +20,12 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -58,8 +60,13 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
