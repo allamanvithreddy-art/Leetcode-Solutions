@@ -21,6 +21,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0234-palindrome-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -87,20 +88,24 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
