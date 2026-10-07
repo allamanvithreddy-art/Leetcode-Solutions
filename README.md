@@ -30,6 +30,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -37,11 +38,13 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -120,4 +123,8 @@
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/allamanvithreddy-art/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
